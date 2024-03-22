@@ -14,6 +14,14 @@ Skills: C/ C# / Java / Kotlin / HTML / CSS / Android SDK & APIs / SQLite / MySQL
 - 😄 Pronouns: She/Her 
 - ⚡ Fun fact: Did you know that ants can carry 10-50 times their weight!? 
 
+1. Activity Life Cycle-Kotlin
+
+
+
+
+
+
+
 My Personal Project-Animation App in Java
 
 
