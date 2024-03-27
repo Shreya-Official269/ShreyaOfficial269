@@ -14,7 +14,7 @@ Skills: C/ C# / Java / Kotlin / HTML / CSS / Android SDK & APIs / SQLite / MySQL
 - 😄 Pronouns: She/Her 
 - ⚡ Fun fact: Did you know that ants can carry 10-50 times their weight!? 
 
-1. Activity Life Cycle-Kotlin
+1. ACTIVITY LIFECYCLE KOTLIN
 
 
 
@@ -24,9 +24,11 @@ https://github.com/Shreya-Official269/ShreyaOfficial269/assets/154762057/dd1eedf
 https://github.com/Shreya-Official269/ShreyaOfficial269/assets/154762057/c33e5e50-0079-4b29-8f3b-7b141a91c9d4
 
 
+Interview Questions:
 https://medium.com/@nithyanataraj/android-lifecycle-related-questions-c82ddabe4427
-
-
+https://www.linkedin.com/pulse/android-activity-frequently-asked-interview-questions-aalishan-ansari/
+https://medium.com/@zayed007/android-activity-fragment-lifecycles-most-asked-interview-questions-and-answers-8dcb540bd3e
+https://stackoverflow.com/questions/55673479/questions-about-activity-and-fragment-lifecycle
 
 
 
